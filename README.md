@@ -3,8 +3,7 @@
 
 ## Contents:
 * Data Folder 
-  * [
-test_imperium_labels.csv](#test_imperium_labels)
+  * [test_imperium_labels.csv](#test_imperium_labels)
   * [train.csv](#train)
 * Jupyter Notebook File 
 
