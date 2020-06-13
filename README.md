@@ -18,7 +18,7 @@ This file has a completed column named insult that takes values either **0 (neut
 ### train
 This is a csv file that is used to train the algorithms.It is the same as the test_imperium_labels.csv but it has incompleted the **insult** row
 
-### Jupyter Notebook :
+### Jupyter Notebook 
 List of what I had to do :
 1. Text Preprocessing (remove punctuation, links etc.)
 2. Use Naive-Bayes Classification Algorithm
