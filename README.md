@@ -8,7 +8,7 @@ The professor gave us the data that we had to use and I just made the Notebook t
 * Data Folder 
   * [test_imperium_labels.csv](#test-imperium-labels)
   * [train.csv](#train)
-* Jupyter Notebook File 
+* [Jupyter Notebook File](#Jupyter-Notebook)
 
 
 ### test imperium labels 
