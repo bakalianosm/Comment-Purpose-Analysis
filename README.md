@@ -2,7 +2,7 @@
 
 This is a project that we had to implement in the course of **Data Mining** this semester ( 2019 - 2020 ) .
 The professor gave us the data that we had to use and I just made the Notebook that represents my work .
-
+At the end of the project i have put some useful links that helped me to successfully complete it .
 
 ## Contents:
 * Data Folder 
